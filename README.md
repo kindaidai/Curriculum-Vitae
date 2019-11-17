@@ -5,7 +5,7 @@
 |key|value|
 |---|-----|
 |Name|金田一 大(Kindaichi Dai)|
-|Blog|[kindai-dai](kindai-dai.hatenablog.com)|
+|Blog|[kindai-dai](http://kindai-dai.hatenablog.com/)|
 |Qiita|[kindai_dai](https://qiita.com/kindai_dai)|
 |Twitter|[@kindai_dai](https://twitter.com/kindai_dai)|
 
