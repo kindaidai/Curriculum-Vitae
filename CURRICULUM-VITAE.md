@@ -1,12 +1,3 @@
----
-stylesheet: https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/2.10.0/github-markdown.min.css
-body_class: markdown-body
-css: |-
-  .page-break { page-break-after: always; }
-  .markdown-body { font-size: 11px; }
-  .markdown-body pre > code { white-space: pre-wrap; }
----
-
 # 職務経歴書
 https://github.com/kindaidai/Curriculum-Vitae/blob/master/CURRICULUM-VITAE.md
 
@@ -60,6 +51,8 @@ https://github.com/kindaidai/Curriculum-Vitae/blob/master/CURRICULUM-VITAE.md
 できればブログの仕組みもヘッドレスCMSなどを使って構築してみる予定
 https://github.com/kindaidai/kindaidaidev
 
+<div class="page-break"></div>
+
 ## 職務経歴
 
 ### 2019/02 - 現在 : 株式会社キャタル
@@ -97,6 +90,8 @@ https://github.com/kindaidai/kindaidaidev
 - React, Redux, TypeScript, apollo client
 - Ruby, Ruby on Rails
   - GraphQL Ruby
+
+<div class="page-break"></div>
 
 ### 2017/11 - 2018/12: エコーズ株式会社
 ### 2019/04 - 現在: エコーズ株式会社(業務委託)

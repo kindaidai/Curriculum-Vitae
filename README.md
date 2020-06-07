@@ -5,6 +5,7 @@ $ cd Curriculum-Vitae
 $ yarn
 $ md-to-pdf CURRICULUM-VITAE.md
 ```
+github styleにする場合は[こちら](https://github.com/simonhaenisch/md-to-pdf#github-styles)
 
 # 職務経歴書
 
