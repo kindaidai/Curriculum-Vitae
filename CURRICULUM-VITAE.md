@@ -1,4 +1,14 @@
+---
+stylesheet: https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/2.10.0/github-markdown.min.css
+body_class: markdown-body
+css: |-
+  .page-break { page-break-after: always; }
+  .markdown-body { font-size: 11px; }
+  .markdown-body pre > code { white-space: pre-wrap; }
+---
+
 # 職務経歴書
+https://github.com/kindaidai/Curriculum-Vitae/blob/master/CURRICULUM-VITAE.md
 
 ## 基本情報
 
@@ -21,23 +31,24 @@
   - Python
 - 実務経験はないが趣味で触った程度
   - Golang
+
 ### フレームワーク
 - Ruby on Rails
 - React
+
 ### インフラ
 0からの構築経験はないですが、負荷対応や開発する上で連携が必要になって利用したことがあるものです。
 - AWS(EC2, ELB, RDS, ElasticCache, S3, CloudFront, Lambda, CloudWatch)
 - heroku
+
 ### ミドルウェア
 - RDB(MySQL, PostgreSQL)
 - redis
 - Nginx
+
 ### CI
 - CircleCI
 - Wercker
-### Editor
-- VSCode
-- vim
 
 ## 強み
 - 特に新規機能開発は、十分なヒアリングや周りの意見を聞いてから、設計に落とし込むことを常に心がげています
