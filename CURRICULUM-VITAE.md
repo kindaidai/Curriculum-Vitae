@@ -6,12 +6,13 @@ https://github.com/kindaidai/Curriculum-Vitae/blob/master/CURRICULUM-VITAE.md
 |key|value|
 |---|-----|
 |Name|金田一 大(Kindaichi Dai)|
-|Blog|[kindai-dai](http://kindai-dai.hatenablog.com/)|
+|ばてなブログ|[kindai-dai](http://kindai-dai.hatenablog.com/)|
 |Qiita|[kindaidai](https://qiita.com/kindaidai)|
+|note|[kindai0911](https://note.com/kindai0911)|
 |Twitter|[@kindai_dai](https://twitter.com/kindai_dai)|
 
 - 1990/09/11 生まれ
-- 青森県出身 八戸高専卒
+- 青森県出身 国立八戸工業高等専門学校 卒業
 
 ## スキル
 ### 言語
@@ -28,7 +29,7 @@ https://github.com/kindaidai/Curriculum-Vitae/blob/master/CURRICULUM-VITAE.md
 - React
 
 ### インフラ
-0からの構築経験はないですが、負荷対応や開発する上で連携が必要になって利用したことがあるものです。
+0からの構築経験はないですが、負荷対応や開発する上で連携が必要になった時に利用したことがあるものです。
 - AWS(EC2, ELB, RDS, ElasticCache, S3, CloudFront, Lambda, CloudWatch)
 - heroku
 
@@ -42,14 +43,20 @@ https://github.com/kindaidai/Curriculum-Vitae/blob/master/CURRICULUM-VITAE.md
 - Wercker
 
 ## 強み
-- 特に新規機能開発は、十分なヒアリングや周りの意見を聞いてから、設計に落とし込むことを常に心がげています
-- 必要なテストコードを必ず書いて、ライブラリのアップデートやコード変更をしやすくなるような開発をすることができます
-- チームのDXを常に意識しています
+### 技術面
+- Ruby on Railsをベースにした開発のリード
+- 必要なテストコードを必ず書いて、ライブラリのアップデートやコード変更をしやすくなるような開発ができること
+- チームのDXを常に意識しており、同じような作業の自動化、便利になるようなSaaS導入の提案やslack拡張ができること
+
+### 開発全般
+- 最大限に他のメンバーや過去の実装の経緯に気を払いながらも、遠慮せずに意見が言えること
+- 機能開発において、十分なヒアリングや時には現場に赴き、ユーザー体験を意識しながら設計、開発ができること
 
 ## 最近の趣味
-フロントエンドの知識をアップデートするために、パーソナルサイトをNextjsを使って構築中(開発し始めたばかりです...)
-できればブログの仕組みもヘッドレスCMSなどを使って構築してみる予定
-https://github.com/kindaidai/kindaidaidev
+- golangの学習(ISUCON11のため)
+- フロントエンドの知識をアップデートするために、パーソナルサイトをNext.jsを使って構築(作って満足してしまってますが...)
+  - ブログの仕組みを、mdファイルベースからヘッドレスCMSなどを使って外部サービスを使って構築してみる予定
+  - https://github.com/kindaidai/kindaidaidev
 
 <div class="page-break"></div>
 
@@ -59,10 +66,11 @@ https://github.com/kindaidai/kindaidaidev
 
 職務: ソフトウェアエンジニア
 
-ソフトウェアエンジニアとして、2つのシステム開発に従事していました。フロントエンドはTypeScript、React、Redux、Apollo Clientなどを用いた開発、サーバーサイドはRuby、Ruby on Railsを用いて開発をしていました。また、２つのサービスを1つに統合する業務を半年かけて任せてもらいました。
+ソフトウェアエンジニアとして、2つのシステム開発に従事していました。フロントエンドはTypeScript、React、Redux、Apollo Clientなどを用いた開発、サーバーサイドはRuby、Ruby on Railsを用いて開発をしています。
+通常の新規開発・保守の他に、２つのサービスを1つに統合する業務を半年かけて行ったり、graphql-rubyを使用してフロントエンドとバックエンドのやりとりをRESTからGraphQL APIへ移行し、スケールしやすいように整備したりしました。
 
 #### 横断プロジェクト
-- pull pandaを導入し、アサインされたPRのリマインダーとランダムアサインの仕組みを導入
+- pull pandaを導入し、アサインされたPRのリマインダーとランダムアサインの仕組みを導入(今は、GitHub cheduled reminders)
 - herokuのproduction環境のdumpデータとアセットを、staging、review-appsに適用できるコマンドを作成して、productionと同等の環境を用意できる仕組みを整備
 
 #### 自社英語塾学習管理システム
