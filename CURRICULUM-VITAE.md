@@ -1,5 +1,4 @@
 # 職務経歴書
-https://github.com/kindaidai/Curriculum-Vitae/blob/master/CURRICULUM-VITAE.md
 
 ## 基本情報
 
@@ -44,7 +43,7 @@ https://github.com/kindaidai/Curriculum-Vitae/blob/master/CURRICULUM-VITAE.md
 
 ## 強み
 ### 技術面
-- Ruby on Railsをベースにした開発のリード
+- Ruby on Railsをベースにした開発のリードができること
 - 必要なテストコードを必ず書いて、ライブラリのアップデートやコード変更をしやすくなるような開発ができること
 - チームのDXを常に意識しており、同じような作業の自動化、便利になるようなSaaS導入の提案やslack拡張ができること
 
