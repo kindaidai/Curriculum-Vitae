@@ -1,3 +1,11 @@
+---
+stylesheet: https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/2.10.0/github-markdown.min.css
+body_class: markdown-body
+css: |-
+  .markdown-body { font-size: 16px; }
+  .markdown-body pre > code { white-space: pre-wrap; }
+---
+
 # 職務経歴書
 
 ## 基本情報
@@ -5,6 +13,7 @@
 |key|value|
 |---|-----|
 |Name|金田一 大(Kindaichi Dai)|
+|github|[kindaidai](https://github.com/kindaidai)|
 |ばてなブログ|[kindai-dai](http://kindai-dai.hatenablog.com/)|
 |Qiita|[kindaidai](https://qiita.com/kindaidai)|
 |note|[kindai0911](https://note.com/kindai0911)|
