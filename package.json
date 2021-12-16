@@ -1,5 +1,5 @@
 {
   "devDependencies": {
-    "md-to-pdf": "^4.0.0"
+    "md-to-pdf": "^5.0.0"
   }
 }
